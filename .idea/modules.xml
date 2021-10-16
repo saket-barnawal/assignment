@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-first-java.iml" filepath="$PROJECT_DIR$/02-first-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03-conditionals-Intermediate Java Programs Part-2/03-conditionals-Intermediate Java Programs Part-2.iml" filepath="$PROJECT_DIR$/../03-conditionals-Intermediate Java Programs Part-2/03-conditionals-Intermediate Java Programs Part-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../second/03-conditionals-loops.iml" filepath="$PROJECT_DIR$/../second/03-conditionals-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04-functions/04-functions.iml" filepath="$PROJECT_DIR$/../04-functions/04-functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03-conditionals/Intermediate Java Programs/Intermediate Java Programs.iml" filepath="$PROJECT_DIR$/../03-conditionals/Intermediate Java Programs/Intermediate Java Programs.iml" />
+    </modules>
+  </component>
+</project>
